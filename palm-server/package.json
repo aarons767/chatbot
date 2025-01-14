@@ -10,7 +10,9 @@
   "author": "Aaron DSouza",
   "license": "ISC",
   "dependencies": {
+    "@google-ai/generativelanguage": "^2.9.0",
     "@google/generative-ai": "^0.21.0",
+    "body-parser": "^1.20.3",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
